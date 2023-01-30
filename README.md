@@ -3,7 +3,7 @@ Meus certificados que adquiri fazendo cursos!
 
 <div align="center">
     <img src="https://images2.imgbox.com/07/09/7xFbe8PH_o.png" alt="conectar" width="500">
-    <img src="https://images2.imgbox.com/35/37/78xFXDsM_o.png" alt="Fundamentar" width="500>
+    <img src="https://images2.imgbox.com/67/9e/FJNL7kyl_o.png" alt="Fundamentar" width="500">
 </div>
 <br>
 <div align="center">
